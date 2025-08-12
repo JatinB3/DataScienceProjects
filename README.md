@@ -65,4 +65,4 @@ Clusters customers based on behavioral features using unsupervised learning.
 Clone the repository and open the `.ipynb` files locally:
 
 ```bash
-git clone https://github.com/your-username/data-science-projects.git
+git clone https://github.com/JatinB3/DataScienceProjects.git
